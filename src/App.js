@@ -10,7 +10,9 @@ function App(){
             <Note />
             <Footer />
         </div>
+        
     );
+
 }
 
 export default App;

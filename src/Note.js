@@ -1,9 +1,12 @@
 import React from "react";
 const customStyle={
     fontFamily: "Montserrat",
-    border: "10px solid black",
-    marginRight: "75%",
-    paddingBottom: "50px"
+    color:"white",
+    border: "5px solid black ",
+    padding: "10px 0 10px 0",
+    borderRadius:"20px",
+    margin:"5em 35em 0 35em",
+    textAlign:"center"
 }
 function Note(){
     return (
