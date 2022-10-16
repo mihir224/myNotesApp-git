@@ -3,8 +3,9 @@ const customStyle={
     color: "white",
     fontFamily: "Montserrat",
     fontSize:"20px",
-    padding: "10px 0 10px 15px",
     backgroundColor: "dimgrey",
+    margin: "auto -16px",
+    padding:" 16px 32px"
 }
 function Heading(){
     return(

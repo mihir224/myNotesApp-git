@@ -2,7 +2,7 @@ import React from "react";
 var year=new Date();
 var currentYear=year.getFullYear();
 const customStyle={
-    color:"white",
+    color:"black",
     fontFamily: "Montserrat",
     textAlign: "center",
     position:"absolute",
